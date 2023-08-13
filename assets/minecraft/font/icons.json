@@ -1,0 +1,47 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                "«": -4,
+                " ": 4
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "tradecore:icon/rib.png",
+            "height": 16,
+            "ascent": -8,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "tradecore:icon/vote_ticket.png",
+            "height": 16,
+            "ascent": -8,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "tradecore:icon/rib.png",
+            "height": 16,
+            "ascent": -8,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "tradecore:icon/rib.png",
+            "height": 16,
+            "ascent": -8,
+            "chars": [
+                "\uE003"
+            ]
+        }
+    ]
+}
