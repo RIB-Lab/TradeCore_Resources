@@ -1,0 +1,66 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                "«": -4,
+                "<": -40,
+                " ": 4
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "tradecore:ui/crafting_table.png",
+            "height": 80,
+            "ascent": 10,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "tradecore:ui/crafting_table_armor.png",
+            "height": 80,
+            "ascent": 10,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "tradecore:ui/crafting_table_crafting.png",
+            "height": 80,
+            "ascent": 10,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "tradecore:ui/crafting_table_misc.png",
+            "height": 80,
+            "ascent": 10,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "tradecore:ui/crafting_table_tool.png",
+            "height": 80,
+            "ascent": 10,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "tradecore:ui/crafting_table_weapon.png",
+            "height": 80,
+            "ascent": 10,
+            "chars": [
+                "\uE005"
+            ]
+        }
+    ]
+}
