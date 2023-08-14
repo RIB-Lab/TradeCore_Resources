@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:block/oak_log",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "tradecore:bark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "tradecore:round_trunk"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "tradecore:twig"
+    }
+  ]
+}
