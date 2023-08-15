@@ -1,20 +1,17 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/paper"
-  },
+  "parent": "minecraft:block/cobblestone",
   "overrides": [
     {
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "tradecore:pebble"
+      "model": "tradecore:widestone"
     },
     {
       "predicate": {
         "custom_model_data": 2
       },
-      "model": "tradecore:drygrass"
+      "model": "tradecore:tallstone"
     }
   ]
 }
