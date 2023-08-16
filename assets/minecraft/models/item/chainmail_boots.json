@@ -5,6 +5,8 @@
     },
     "overrides": [
         {"predicate": {"trim_type": 0.00}, "model": "custom/template/boots"},
-        {"predicate": {"trim_type": 0.01}, "model": "custom/emerald/boots"}
+        {"predicate": {"trim_type": 0.01}, "model": "custom/emerald/boots"},
+        {"predicate": {"trim_type": 0.02}, "model": "custom/bark/boots"},
+        {"predicate": {"trim_type": 0.03}, "model": "custom/stone/boots"}
     ]
 }
