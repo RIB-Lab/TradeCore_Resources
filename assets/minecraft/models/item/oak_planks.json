@@ -6,6 +6,12 @@
         "custom_model_data": 1
       },
       "model": "tradecore:woodpulp"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "tradecore:wooden_component"
     }
   ]
 }
