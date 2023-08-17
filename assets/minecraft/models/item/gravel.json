@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/gravel",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "tradecore:gravel_dust"
+    }
+  ]
+}

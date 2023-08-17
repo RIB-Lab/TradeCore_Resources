@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:block/sand",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "tradecore:sand_dust"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "tradecore:sandgold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "tradecore:ash"
+    }
+  ]
+}
