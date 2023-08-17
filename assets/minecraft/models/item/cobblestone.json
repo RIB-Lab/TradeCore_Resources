@@ -12,6 +12,36 @@
         "custom_model_data": 2
       },
       "model": "tradecore:tallstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "tradecore:andesite_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "tradecore:granite_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "tradecore:diorite_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "tradecore:round_stone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "tradecore:stone_component"
     }
   ]
 }
